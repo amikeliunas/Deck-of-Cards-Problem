@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardDeck</string>
+    <string name="hello_world">New deck</string>
+    <string name="action_settings">Settings</string>
+    <string name="deal_one_card">Deal One Card</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="new_deck">New Deck</string>
+    <string name="content_desc">content</string>
+
+</resources>
